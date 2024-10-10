@@ -15,5 +15,7 @@ scrapy crawl arkansas_lottery_spider
 https://docs.google.com/spreadsheets/d/1vUoPzPlBONg0U1gH9iAHAhz3bZHWiKe4_bNlwg-nVxU/edit?usp=sharing
 
 Files Location
-arkansas_lottery/spiders/arkansas_lottery_spider.py: Contains the spider that scrapes the data.
-settings.py: Configured for CSV output and project settings.
+arkansas_lottery/spiders/arkansas_lottery_spider.py  -Contains the spider that scrapes the data.
+settings.py  -Configured for CSV output and project settings.
+
+Note: Make sure to install scrapy, gspread and python
